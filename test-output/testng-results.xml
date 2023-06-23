@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-23T12:11:12 CDT" name="Default suite" finished-at="2023-06-23T12:11:20 CDT" duration-ms="8672">
+    <groups>
+    </groups>
+    <test started-at="2023-06-23T12:11:12 CDT" name="Default test" finished-at="2023-06-23T12:11:20 CDT" duration-ms="8672">
+      <class name="test.MultipleWindowHandles">
+        <test-method is-config="true" signature="init()[pri:0, instance:test.MultipleWindowHandles@15b204a1]" started-at="2023-06-23T12:11:12 CDT" name="init" finished-at="2023-06-23T12:11:17 CDT" duration-ms="4711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="handleMultipleWindows()[pri:0, instance:test.MultipleWindowHandles@15b204a1]" started-at="2023-06-23T12:11:17 CDT" name="handleMultipleWindows" finished-at="2023-06-23T12:11:20 CDT" duration-ms="3933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleMultipleWindows -->
+      </class> <!-- test.MultipleWindowHandles -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
